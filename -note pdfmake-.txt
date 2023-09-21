@@ -1,0 +1,5 @@
+**Note**
+๐ pludins/pdf.vue        import pdfmake & fonts TH_Sarabun
+๐ pludins/vuetify.vue     import fonts Kanit
+๐ utils/pdf/test.js      เอกสาร pdf
+๐ src/views/AboutView.vue     page หลัก
